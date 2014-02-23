@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item >王海鑫是你爹</item>
+        <item >王海鑫是你爷</item>
+        <item >王海鑫是你叔</item>
+        <item >王海鑫是你哥</item>
+    </string-array>
+    
+</resources>
